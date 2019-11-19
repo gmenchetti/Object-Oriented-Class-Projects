@@ -1,11 +1,10 @@
-##CS 474 - Project 3
-###Guglielmo Menchetti
+## CS 474 - Programmable Calculator
 
-####Installation
+#### Installation
 
 This project has been tested on a GNU C++11 compiler, using the editor CLion.
 
-####Features
+#### Features
 
 A user of the Programmable Calculator can apply the following commands:
 
@@ -16,7 +15,7 @@ A user of the Programmable Calculator can apply the following commands:
 - p: print the instruction sequence and the content of the registers
 - q : quit the PC
 
-####Notes
+#### Notes
 
 The file to be loaded for the program should be a ".txt" file in the "InstructionFiles" directory.
 
