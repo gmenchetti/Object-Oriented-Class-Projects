@@ -1,5 +1,4 @@
 ## CS 474 - Music Library
-### Guglielmo Menchetti
 
 #### Installation
 
