@@ -1,0 +1,8 @@
+id:0;
+index:423;
+artist:Mazhehe;
+genre:2;
+people:Mario Piu,Ivano Fossati;
+title:Jupyter;
+clip:0x43,0x23,0x21,0x02,0x32;
+price:35.520000;
