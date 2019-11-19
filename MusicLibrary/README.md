@@ -1,4 +1,4 @@
-## CS 474 - Project 3
+## CS 474 - Music Library
 ### Guglielmo Menchetti
 
 #### Installation
