@@ -2,8 +2,8 @@
  
 This folder contains two projects developed in C++ for Object Oriented Languages and Environments class during Fall 2018.
 The projects are:
-- Music Library Service: implementation of the back-end of a Music Service Library
-- Programmable Calculator: calculator that lets users specify sequences of arithmetic operations on 4 registers
+- **Music Library Service**: implementation of the back-end of a Music Service Library
+- **Programmable Calculator**: calculator that lets users specify sequences of arithmetic operations on 4 registers
 
 ## Music Library Service (MLS) description
 The service maintains a set of audio files containing a large number of songs and it will deliver a music file upon demand from a service user. The MLS is not responsible for playing music segments and interfacing to service users; this functionality is implemented in the MLS’s front-end, which is not part of this project. However, the back-end is responsible for maintaining the audio clips, including add and removing clips, editing existing clisps and duplicating audio clips (for the purpose of delivering songs to MLS users).
