@@ -1,0 +1,8 @@
+id:4;
+index:3222;
+artist:J Lo;
+genre:3;
+people:Martin,Frank Sinatra;
+title:This is the word;
+clip:;
+price:3.150000;

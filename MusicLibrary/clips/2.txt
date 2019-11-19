@@ -1,0 +1,8 @@
+id:2;
+index:4215;
+artist:Michael Buble;
+genre:4;
+people:;
+title:My hand hurts;
+clip:0x43,0x44,0x00,0x11;
+price:1.240000;

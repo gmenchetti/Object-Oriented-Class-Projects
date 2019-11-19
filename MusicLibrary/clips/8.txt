@@ -1,0 +1,8 @@
+id:8;
+index:1444;
+artist:Highway;
+genre:2;
+people:Jim Morrison, John Coltrane;
+title:My doors;
+clip:0x43,0x4d,0x30,0x30,0x0f,0x0D;
+price:2.520000;
