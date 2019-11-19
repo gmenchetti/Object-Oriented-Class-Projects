@@ -1,8 +1,0 @@
-id:6;
-index:321;
-artist:The artists;
-genre:7;
-people:John Coltrane,Pino Daniele;
-title:Only you;
-clip:;
-price:4.120000;

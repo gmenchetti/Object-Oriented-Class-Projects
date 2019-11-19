@@ -1,8 +1,0 @@
-id:3;
-index:121424;
-artist:The Shell;
-genre:0;
-people:Frank Zappa, Mario Biondi;
-title:The End;
-clip:0x43,0x4d,0x30,0x30,0x0f,0x0D;
-price:3.120000;

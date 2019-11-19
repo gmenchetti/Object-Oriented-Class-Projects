@@ -1,8 +1,0 @@
-id:5;
-index:4143;
-artist:Melons;
-genre:1;
-people:The artist, The non-artist;
-title:On the road;
-clip:0x43,0x4d,0x30,0x30,0x0f,0x0D;
-price:8.300000;
