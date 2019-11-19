@@ -1,11 +1,11 @@
-##CS 474 - Project 3
-###Guglielmo Menchetti
+## CS 474 - Project 3
+### Guglielmo Menchetti
 
-####Installation
+#### Installation
 
 This project has been tested on a GNU C++11 compiler, using the editor CLion. the compiler to c++11.
 
-####Features
+#### Features
 
 A user of the MLS can apply the following commands:
 
@@ -18,7 +18,7 @@ A user of the MLS can apply the following commands:
 - s : save all the clips in memory in files (contained in the folder clips)
 - q : quit
 
-####Notes
+#### Notes
 
 For the __create new clip__ and __read from file__ functionalities the input data are assumed to be 
 correct. Furthermore, __read from file__ reads from "input.inp" that must be formatted in the following
@@ -28,7 +28,7 @@ l
 e 4
 p 3.41
 c 4 3222 J_Lo Martin,Frank_Sinatra This_is_the_word 3 3.15
-y
+y 
 s
 e 2
 p 1.24
@@ -42,4 +42,3 @@ The function _c_ take the following list as input:
 - Song title (space replaced by _)
 - Genre (a value between 0-9)
 - Price (a floating value)
-
