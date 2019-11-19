@@ -1,0 +1,8 @@
+id:9;
+index:9833;
+artist:My bad;
+genre:2;
+people:;
+title:Train;
+clip:0x32,0x88,0x33,0x4f,0x2d;
+price:1.320000;
